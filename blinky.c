@@ -1,6 +1,5 @@
 /**
- * test.c
- * gcc -o main main.c -luflius
+ * gcc -o blinky blinky.c -luflius
 */
 #include <stdio.h>
 #include <ulfius.h>
